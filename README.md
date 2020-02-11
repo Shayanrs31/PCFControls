@@ -1,4 +1,4 @@
-# PCFControl - Quick Update Record
+# PCFControl - Quick Update Record using office fabric and React js
 
 # Problem:
 In the current dynamics model driven app scenario, in order to update values in the lookup record, the user should actually navigate to the lookup(related record) from the existing entity and then update the record. 
