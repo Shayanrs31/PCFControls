@@ -7,3 +7,4 @@ In the current dynamics model driven app scenario, in order to update values in 
 # Developed solution:
 This control is built using office fabri ui and react js, that opens a pop up in the same window allowing users to edit values related to lookup record.
 
+[img]
